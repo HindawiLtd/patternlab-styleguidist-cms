@@ -1,0 +1,29 @@
+{
+  "name": "hindawi-styleguidist",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.0",
+    "react-styleguidist": "^6.0.28",
+    "webpack": "^2.6.0"
+  },
+  "dependencies": {
+    "dog-names": "^1.0.2",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "styleguide": "styleguidist server",
+    "styleguide:build": "styleguidist build"
+  }
+}
