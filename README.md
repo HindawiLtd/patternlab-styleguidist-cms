@@ -5,6 +5,7 @@ Patternlab made with Styleguidist for the CMS
 
 ```git clone git@github.com:HindawiLtd/patternlab-styleguidist-cms.git
 npm install
-npm run styleguide```
+npm run styleguide
+```
 
 View the styleguide at http://localhost:6060/
