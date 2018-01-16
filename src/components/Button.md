@@ -4,11 +4,11 @@ Basic button:
 <Button>Push Me</Button>
 ```
 
-Big pink button:
+Big green button:
 
 ```jsx
-<Button size="large" color="deeppink">
-  Lick Me
+<Button size="large" color="green">
+  Push Me
 </Button>
 ```
 
