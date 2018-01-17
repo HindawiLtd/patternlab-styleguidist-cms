@@ -4,10 +4,10 @@ Basic button:
 <Button>Push Me</Button>
 ```
 
-Big blue button - mostly used for Project A:
+Big red button - mostly used for Project A:
 
 ```jsx
-<Button size="large" color="blue">
+<Button size="large" color="red">
   Push Me
 </Button>
 ```
